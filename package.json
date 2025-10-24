@@ -1,0 +1,12 @@
+{
+  "name": "n8n-render-deploy",
+  "version": "1.0.0",
+  "description": "n8n deployment for Render.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Using Docker image'"
+  },
+  "keywords": ["n8n", "automation", "workflow"],
+  "author": "Your Name",
+  "license": "MIT"
+}

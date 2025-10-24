@@ -1,0 +1,30 @@
+# n8n data files (these will be recreated on Render)
+.n8n/
+n8nEventLog*.log
+database.sqlite
+crash.journal
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.backup
+*.bak
